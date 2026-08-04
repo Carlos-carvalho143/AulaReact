@@ -11,9 +11,9 @@ import EspiritoSanto from "./paginas/EspiritoSanto";
       <Route path="/" element={<Home />}  />
 
       <Route path="/estados/sp" element={<SaoPaulo />} />
-      <Route path="/estados/sp" element={<MinasGerais />} />
- <Route path="/estados/sp" element={<RioJaneiro />} />
-  <Route path="/estados/sp" element={<EspiritoSanto />} />
+      <Route path="/estados/mg" element={<MinasGerais />} />
+ <Route path="/estados/rj" element={<RioJaneiro />} />
+  <Route path="/estados/es" element={<EspiritoSanto />} />
       </Routes>
 </BrowserRouter>
   )
