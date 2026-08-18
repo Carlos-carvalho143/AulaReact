@@ -3,7 +3,7 @@ export default function Pernambuco()
 {
   return(
     <div>
-      <h1>Aula 03 - Estado do </h1>
+      <h1>Aula 03 - Estado de Pernambuco </h1>
       <div className="conteudo">
       <img src="/PE.png"/>
       <p>Pernambuco tem Recife como capital e apresenta uma economia diversificada, com destaque para comércio, indústria, agricultura, serviços e turismo. O estado possui praias famosas, cidades históricas e forte importância cultural.</p>
